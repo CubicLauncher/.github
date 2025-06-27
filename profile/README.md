@@ -30,7 +30,7 @@ CubicLauncher es una comunidad abierta. Si deseas participar, compartir ideas, r
 
 - Sitio web oficial: No Disponible
 - Servidor de Discord: [https://discord.gg/cubiclauncher](https://discord.gg/RxQMDvVYkt)
-- Subreddit oficial: [https://reddit.com/r/cubicmc](https://reddit.com/r/cubicmc)
+- Subreddit oficial: [https://www.reddit.com/r/CubicLauncher/](https://www.reddit.com/r/CubicLauncher/)
 
 ## Cómo contribuir
 
