@@ -43,6 +43,43 @@ El desarrollo de CubicLauncher es impulsado por la comunidad. Invitamos a desarr
 
 Para comenzar, revisa la guía de contribución disponible en cada repositorio.
 
+## Colaboradores
+
+El desarrollo de **CubicLauncher** es posible gracias al trabajo y dedicación de nuestra comunidad.  
+Agradecemos especialmente a las siguientes personas por sus contribuciones:
+
+<table>
+  <thead>
+    <tr>
+      <th>Foto</th>
+      <th>Usuario</th>
+      <th>Rol</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://avatars.githubusercontent.com/u/149891004?v=4" width="48" height="48" alt="Usuario1"></td>
+      <td><a href="https://github.com/santiagolxx">@santiagolxx</a></td>
+      <td>Desarrollador principal</td>
+    </tr>
+    <tr>
+      <td><img src="https://avatars.githubusercontent.com/u/108166164?v=4" width="48" height="48" alt="Usuario2"></td>
+      <td><a href="https://github.com/staFF6773">@staFF6773</a></td>
+      <td>Desarrollador FrontEnd</td>
+    </tr>
+    <tr>
+      <td><img src="https://avatars.githubusercontent.com/u/126353237?v=4" width="48" height="48" alt="Usuario4"></td>
+      <td><a href="https://github.com/DevCheckOG">@DevCheckOG</a></td>
+      <td>Desarollador BackEnd</td>
+    </tr>
+  </tbody>
+</table>
+
+> Si deseas unirte al equipo de colaboradores, revisa la guía de contribución y empieza a aportar al proyecto.  
+> Todas las contribuciones son valoradas y reconocidas.
+
+
+
 ---
 
 **CubicLauncher** es una iniciativa libre y comunitaria, orientada a mejorar el acceso y la experiencia de juego en Minecraft para todos los usuarios.
