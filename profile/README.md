@@ -16,9 +16,14 @@ Características principales:
 
 ## Licencia
 
-Todos los proyectos dentro de esta organización están distribuidos bajo la **Licencia LGPL-2.1**. Esto permite su libre uso, modificación y distribución, siempre que se respeten los términos definidos en dicha licencia.
+Todos los proyectos de esta organización están distribuidos bajo licencias de software libre.
+
+- Las **librerías** se distribuyen bajo la **Licencia LGPL-2.1**, lo que permite su libre uso, modificación y distribución, incluso en software propietario, siempre que se respeten los términos definidos en dicha licencia.
+
+- El resto de los proyectos están licenciados bajo la **GPL-3.0**, que garantiza las mismas libertades (uso, modificación y distribución), pero exige que cualquier trabajo derivado también se distribuya bajo la misma licencia GPL-3.0.
 
 Para más información, consulta el archivo `LICENSE` incluido en cada repositorio.
+
 
 ## Misión del proyecto
 
