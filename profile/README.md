@@ -34,7 +34,7 @@ La misión de CubicLauncher es brindar una solución libre y de alta calidad par
 CubicLauncher es una comunidad abierta. Si deseas participar, compartir ideas, reportar errores o simplemente estar al tanto del desarrollo, puedes unirte a nuestros canales oficiales:
 
 - Sitio web oficial: No Disponible
-- Servidor de Discord: [https://discord.gg/cubiclauncher](https://discord.gg/RxQMDvVYkt)
+- Servidor de Discord: [https://discord.gg/RxQMDvVYkt](https://discord.gg/RxQMDvVYkt)
 - Subreddit oficial: [https://www.reddit.com/r/CubicLauncher/](https://www.reddit.com/r/CubicLauncher/)
 
 ## Cómo contribuir
